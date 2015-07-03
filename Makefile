@@ -1,4 +1,4 @@
-all: index.html
+all: index.md
 
-index.html: index.Rmd
-	Rscript -e "knitr::knit('index.Rmd', 'index.html')"
+index.md: index.Rmd
+	Rscript -e "knitr::knit('index.Rmd', 'index.md')"
