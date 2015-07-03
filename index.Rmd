@@ -10,5 +10,5 @@ install.packages(..., repos = c("http://krlmlr.github.io/drat"))
 
 ```{r echo=FALSE}
 available_src <- available.packages(paste0("file://", getwd(), "/src/contrib"))
-available_src[, c("Package", "Version", "NeedsCompilation")]
+available_src[, c("Package", "Version", "NeedsCompilation")] %>% knitr::kable
 ```
