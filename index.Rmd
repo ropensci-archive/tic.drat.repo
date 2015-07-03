@@ -1,0 +1,14 @@
+# krlmlr/drat
+
+[`drat`](https://github.com/eddelbuettel/drat) package repository by Kirill Müller.  Install packages from this repository using
+
+```
+install.packages(..., repos = c("http://krlmlr.github.io/drat"))
+``` 
+
+## Available packages
+
+```{r echo=FALSE}
+available_src <- available.packages(paste0("file://", getwd(), "/src/contrib"))
+available_src[, c("Package", "Version", "NeedsCompilation")]
+```
