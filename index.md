@@ -1,5 +1,6 @@
 ---
 title: krlmlr/drat
+layout: post
 ---
 
 # krlmlr/drat
