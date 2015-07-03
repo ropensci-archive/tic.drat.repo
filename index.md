@@ -9,7 +9,6 @@ install.packages(..., repos = c("http://krlmlr.github.io/drat"))
 ## Available packages
 
 
-```
-##          Package          Version NeedsCompilation 
-##         "wrswoR"            "0.3"            "yes"
-```
+|       |Package |Version |NeedsCompilation |
+|:------|:-------|:-------|:----------------|
+|wrswoR |wrswoR  |0.3     |yes              |
