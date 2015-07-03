@@ -13,7 +13,16 @@ install.packages(..., repos = c("http://krlmlr.github.io/drat"))
 
 ## Available packages
 
+### Source
+
 
 |       |Version |NeedsCompilation |
 |:------|:-------|:----------------|
 |wrswoR |0.3     |yes              |
+
+### Binary (Windows, R 3.2)
+
+
+|       |Version |NeedsCompilation |
+|:------|:-------|:----------------|
+|wrswoR |0.3     |NA               |

@@ -13,8 +13,17 @@ install.packages(..., repos = c("http://krlmlr.github.io/drat"))
 
 ## Available packages
 
+### Source
+
 ```{r echo=FALSE}
 library(magrittr)
 available_src <- available.packages(paste0("file://", getwd(), "/src/contrib"))
 available_src[, c("Version", "NeedsCompilation"), drop = FALSE] %>% as.data.frame %>% knitr::kable()
+```
+
+### Binary (Windows, R 3.2)
+
+```{r echo = FALSE}
+available_src <- available.packages(paste0("file://", getwd(), "/bin/windows/contrib/3.2"))
+available_src[, c("Version"), drop = FALSE] %>% as.data.frame %>% knitr::kable()
 ```
