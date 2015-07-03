@@ -1,3 +1,7 @@
+---
+title: krlmlr/drat
+---
+
 # krlmlr/drat
 
 [`drat`](https://github.com/eddelbuettel/drat) package repository by Kirill Müller.  Install packages from this repository using
