@@ -1,3 +1,10 @@
+Package: tic.drat
+Version: 0.0-0
+Suggests: testthat
+License: GPL-3
+MD5sum: 1c70c84bcc10292e1fbeca3806c2e46c
+NeedsCompilation: no
+
 Package: wrswoR
 Version: 0.3
 Depends: R (>= 3.0.2)
@@ -7,4 +14,3 @@ Suggests: testthat, roxygen2
 License: GPL-3
 MD5sum: bda3b16c92398f224fd606defd45686b
 NeedsCompilation: yes
-
