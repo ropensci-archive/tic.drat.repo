@@ -1,0 +1,5 @@
+Package: tic.drat
+Version: 0.0-0
+Suggests: testthat
+License: GPL-3
+MD5sum: f54d95871aebf038f906f15163a877c2
