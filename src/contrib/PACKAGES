@@ -2,7 +2,7 @@ Package: tic.drat
 Version: 0.0-0
 Suggests: testthat
 License: GPL-3
-MD5sum: 0f3f3a67402a9dc6a1ca03cdb043f73d
+MD5sum: f180bc84512673657295c8f91ed9ef39
 NeedsCompilation: no
 
 Package: wrswoR
