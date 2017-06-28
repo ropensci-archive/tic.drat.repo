@@ -1,0 +1,7 @@
+Package: ticdrat
+Version: 0.0-0
+Imports: Rcpp
+LinkingTo: Rcpp
+Suggests: testthat
+License: GPL-3
+MD5sum: dd3f0fa7e1f8e737593ce83d76585c65
