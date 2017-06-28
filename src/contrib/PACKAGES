@@ -7,6 +7,15 @@ License: GPL-3
 MD5sum: 683e319998c6dc1eea6b02549be460a2
 NeedsCompilation: yes
 
+Package: ticdrat
+Version: 0.0-0
+Imports: Rcpp
+LinkingTo: Rcpp
+Suggests: testthat
+License: GPL-3
+MD5sum: e4a91214ceef377ab48de30a088f2124
+NeedsCompilation: yes
+
 Package: wrswoR
 Version: 0.3
 Depends: R (>= 3.0.2)
