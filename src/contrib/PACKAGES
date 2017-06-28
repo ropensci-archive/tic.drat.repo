@@ -1,9 +1,11 @@
 Package: tic.drat
 Version: 0.0-0
+Imports: Rcpp
+LinkingTo: Rcpp
 Suggests: testthat
 License: GPL-3
-MD5sum: f6e2c937da1876a42a2f154a199f9c33
-NeedsCompilation: no
+MD5sum: 683e319998c6dc1eea6b02549be460a2
+NeedsCompilation: yes
 
 Package: wrswoR
 Version: 0.3
