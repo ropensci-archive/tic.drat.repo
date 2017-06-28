@@ -16,13 +16,33 @@ install.packages(..., repos = c("http://krlmlr.github.io/drat"))
 ### Source
 
 
-|       |Version |NeedsCompilation |
-|:------|:-------|:----------------|
-|wrswoR |0.3     |yes              |
+```
+## Warning in read.dcf(file = tmpf): cannot open compressed file '//C:/Users/
+## appveyor/Documents/git/drat/src/contrib/PACKAGES', probable reason 'No such
+## file or directory'
+```
+
+```
+## Error in read.dcf(file = tmpf): cannot open the connection
+```
+
+```
+## Error in eval(lhs, parent, parent): object 'available_src' not found
+```
 
 ### Binary (Windows, R 3.2)
 
 
-|       |Version |
-|:------|:-------|
-|wrswoR |0.3     |
+```
+## Warning in read.dcf(file = tmpf): cannot open compressed file '//C:/Users/
+## appveyor/Documents/git/drat/bin/windows/contrib/3.2/PACKAGES', probable
+## reason 'No such file or directory'
+```
+
+```
+## Error in read.dcf(file = tmpf): cannot open the connection
+```
+
+```
+## Error in eval(lhs, parent, parent): object 'available_src' not found
+```
