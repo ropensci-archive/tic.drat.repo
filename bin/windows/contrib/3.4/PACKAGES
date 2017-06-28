@@ -2,3 +2,11 @@ Package: tic.drat
 Version: 0.0-0
 Suggests: testthat
 License: GPL-3
+
+Package: ticdrat
+Version: 0.0-0
+Imports: Rcpp
+LinkingTo: Rcpp
+Suggests: testthat
+License: GPL-3
+Archs: i386, x64
