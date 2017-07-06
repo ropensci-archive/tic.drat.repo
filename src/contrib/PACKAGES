@@ -13,7 +13,7 @@ Imports: Rcpp
 LinkingTo: Rcpp
 Suggests: testthat
 License: GPL-3
-MD5sum: 67e3c93c9e24ff3473f496608c1b6591
+MD5sum: e2672c5e551830ba16cd55bcd622d229
 NeedsCompilation: yes
 
 Package: wrswoR
