@@ -4,7 +4,7 @@ Imports: Rcpp
 LinkingTo: Rcpp
 Suggests: testthat
 License: GPL-3
-MD5sum: 70f56e376fb7d87ae4eac2597f69baa8
+MD5sum: b6a8d60466bdb7b2c1e75e6aeae623cc
 NeedsCompilation: yes
 
 Package: ticdrat
