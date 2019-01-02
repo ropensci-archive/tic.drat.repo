@@ -1,14 +1,14 @@
 ---
-title: krlmlr/drat
+title: ropenscilabs/tic.drat.repo
 layout: post
 ---
 
-# krlmlr/drat
+# ropenscilabs/tic.drat.repo
 
-[`drat`](https://github.com/eddelbuettel/drat) package repository by Kirill Müller.  Install packages from this repository using
+[`drat`](https://github.com/eddelbuettel/drat) package repository for the [tic.drat](https://github.com/ropenscilabs/tic.drat) demo project.  Install packages from this repository using
 
 ```
-install.packages(..., repos = c("https://krlmlr.github.io/drat"))
+install.packages(..., repos = c("https://ropenscilabs.github.io/tic.drat.repo"))
 ``` 
 
 ## File listing
