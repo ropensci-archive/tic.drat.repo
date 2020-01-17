@@ -4,4 +4,4 @@ Imports: Rcpp
 LinkingTo: Rcpp
 Suggests: testthat
 License: GPL-3
-MD5sum: a8dfab26e0b1cedce152fec607a1a0e7
+MD5sum: 1b29399dbb82ae0243d806b6b1d6f391
