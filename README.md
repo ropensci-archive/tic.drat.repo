@@ -4,8 +4,7 @@
 [`drat`](https://github.com/eddelbuettel/drat) package repository for
 the [tic.drat.repo](https://github.com/ropenscilabs/tic.drat.repo) demo
 project.  
-R packages from this repo can be installed
-with
+R packages from this repo can be installed with
 
 ``` r
 install.packages(..., repos = "https://mlr3learners.github.io/mlr3learners.drat")
@@ -40,13 +39,9 @@ install.packages("tic.drat")
 
 ## Available packages
 
-List of all available learners in this
-    organization
+List of all available learners in this organization
 
-    ## Warning: unable to access index for repository https://ropenscilabs.github.io/tic.drat.repo/src/contrib:
-    ##   cannot open URL 'https://ropenscilabs.github.io/tic.drat.repo/src/contrib/PACKAGES'
-
-    ## character(0)
+    ## [1] "tic.drat"
 
 ## How it works
 
