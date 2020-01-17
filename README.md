@@ -40,9 +40,13 @@ install.packages("tic.drat")
 
 ## Available packages
 
-List of all available learners in this organization
+List of all available learners in this
+    organization
 
-    ## [1] "tic.drat" "ticdrat"  "wrswoR"
+    ## Warning: unable to access index for repository https://ropenscilabs.github.io/tic.drat.repo/src/contrib:
+    ##   cannot open URL 'https://ropenscilabs.github.io/tic.drat.repo/src/contrib/PACKAGES'
+
+    ## character(0)
 
 ## How it works
 
