@@ -1,9 +1,0 @@
-Package: wrswoR
-Version: 0.3
-Depends: R (>= 3.0.2)
-Imports: Rcpp, logging (>= 0.4-13)
-LinkingTo: Rcpp (>= 0.11.5)
-Suggests: testthat, roxygen2
-License: GPL-3
-Archs: i386, x64
-
