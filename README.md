@@ -4,7 +4,8 @@
 [`drat`](https://github.com/eddelbuettel/drat) package repository for
 the [tic.drat.repo](https://github.com/ropenscilabs/tic.drat.repo) demo
 project.  
-R packages from this repo can be installed with
+R packages from this repo can be installed
+with
 
 ``` r
 install.packages(..., repos = "https://mlr3learners.github.io/mlr3learners.drat")
