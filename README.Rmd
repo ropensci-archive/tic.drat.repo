@@ -53,6 +53,7 @@ To do so, add the following lines to `tic.R` and make sure to enable a CRON job 
 
 ```{r, eval=FALSE}
 get_stage("before_deploy") %>%
+  add_step(step_setup_ssh()) %>% # not needed on Circle CI
   add_step(step_setup_push_deploy(branch = "master", orphan = FALSE))
 
 get_stage("deploy") %>%

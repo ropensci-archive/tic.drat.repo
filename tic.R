@@ -1,4 +1,5 @@
 get_stage("before_deploy") %>%
+  add_step(step_setup_ssh()) %>%
   add_step(step_setup_push_deploy(branch = "master", orphan = FALSE))
 
 get_stage("deploy") %>%
